@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 I'm Dan. I builds products.
 
-<!--
-**dnln/dnln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've worked in software development in one form or another since 2011. 
 
-Here are some ideas to get you started:
+I'm currently working with H1, before that I worked with another Y Combinator startup called Business Score.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For the last few years I've mostly worked with the following tech:
+
+- React
+- TypeScript
+- Node.js
+- GraphQL
+- PostgresSQL/MySQL
+- Kubernetes
+- AWS/GCP
+
+📫 How to reach me: https://twitter.com/dnlndly
