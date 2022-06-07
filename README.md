@@ -1,4 +1,4 @@
-### 👋  I'm Dan. I builds products.
+### 👋  I'm Dan. I build products.
 
 I've worked in software development in one form or another since 2011. 
 
